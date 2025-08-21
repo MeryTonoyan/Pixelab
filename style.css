@@ -222,3 +222,58 @@ input{
 
 
 
+@media screen and (max-width: 750px) {
+    .clients-list {
+        width: 48%;
+        margin: 10px auto;
+    }
+
+    .client-card img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .client-card h3 {
+        font-size: 18px;
+        margin: 20px 0 10px;
+    }
+
+    .client-card p {
+        font-size: 13px;
+        margin: 10px;
+    }
+
+    .btnn {
+        padding: 10px;
+        font-size: 16px;
+    }
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .clients-list {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .client-card img {
+        width: 110px;
+        height: 110px;
+    }
+
+    .client-card h3 {
+        font-size: 16px;
+        margin: 15px 0 5px;
+    }
+
+    .client-card p {
+        font-size: 13px;
+        margin: 10px;
+    }
+
+    .btnn {
+        padding: 10px;
+        font-size: 16px;
+    }
+}
