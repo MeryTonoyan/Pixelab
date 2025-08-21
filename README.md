@@ -4,7 +4,7 @@
 
 **A responsive and clean web page built entirely with pure CSS.**
 
-[**➥ Live Demo**](https://merytonoyan.github.io/Black-White/)
+[**➥ Live Demo**](https://merytonoyan.github.io/Fast-Delivery/)
 
 </div>
 
@@ -20,7 +20,7 @@ We founded Black and White on three core values: simplicity, trust, and skilled 
 
 ## Demo Screenshot
 
-![Desktop Demo](./images/screencapture-localhost-63342-Black-White-index-html-2025-08-19-11_30_47.png "Desktop Demo")
+![Desktop Demo](./images/screencapture-localhost-63342-Pixelab-index-html-2025-08-21-11_39_24%20(1).png"Desktop Demo")
 
 ---
 
