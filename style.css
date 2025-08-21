@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.section-padding{
+    padding: 30px;
+    margin: 30px 0;
+}
+.align-center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.title{
+    font-size: 70px;
+    color: #0B1B35;
+}
+.tit{
+    color: #0B1B35;
+    font-size: 32px;
+    margin: 20px 0;
+
+}
+.title-typ{
+    margin: 50px;
+}
+.title-t{
+    font-size: 49px;
+    color: #0B1B35;
+    margin: 30px 0;
+}
+.titletit{
+    font-size: 14px;
+    color: #CBCBCD;
+}
+.text{
+    font-size: 20px;
+    margin: 30px 0;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px 0 ;
+}
+.first-block {
+    width: 44%;
+    margin-top: 70px;
+
+    .img-card {
+        width: 100%;
+    }
+}
+.second-block {
+    width: 50%;
+    img{
+        width:100%;
+    }
+}
+.block{
+    width: 55%;
+    position: relative;
+
+    .img-card {
+        width:90%;
+        position: absolute;
+
+    }
+    .img-carder{
+        width: 100%;
+        position: absolute;
+        margin-left: 70px;
+    }
+}
+.m-3{
+    margin: 30px;
+}
+.shadow{
+    box-shadow: 0px 9px 9px 10px rgba(34, 60, 80, 0.1);
+}
+.btn{
+    width: 35%;
+    padding:15px;
+    color: white;
+    background-color: #FF6600;
+    font-size: 20px;
+    border:  none;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.my-icon{
+    font-size:  70px;
+    align-items: center;
+}
+.btny{
+    width: 35%;
+    margin:10px;
+    padding:15px;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    border:  none;
+    border-radius: 10px;
+}
+.clients-list {
+    width: 23%;
+    border-radius: 10px;
+    margin: 30px ;
+
+    .client-card{
+        margin: 30px ;
+        p {
+
+            font-size: 15px;
+            margin: 30px;
+            text-align: center;
+            line-height: 1.6;
+        }
+
+        h3{
+            font-size: 25px;
+            color: green;
+        }
+    }
+}
+.btnn {
+    margin: 30px 0;
+    width: 80%;
+    padding: 15px;
+    color: white;
+    background-color: #FF6600;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.buton{
+    margin: 80px 0;
+    width: 25%;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.text-content {
+    flex: 1;
+    margin:  30px 0;
+    justify-content: space-between;
+}
+
+.blocking {
+    width: 55%;
+    margin: 30px 0;
+
+    img {
+        width:  100%;
+        height: auto;
+    }
+}
